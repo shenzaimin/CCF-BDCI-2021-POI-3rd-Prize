@@ -1,0 +1,9 @@
+huggingface-hub==0.1.0
+sentencepiece==0.1.96
+multiprocess==0.70.12.2
+simpletransformers==0.61.13
+tqdm==4.62.1
+transformers==4.9.1
+fuzzywuzzy==0.18.0
+opencv-python-headless
+traitlets==5.1.0
